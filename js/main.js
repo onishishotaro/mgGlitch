@@ -12,3 +12,8 @@ $(function () {
     zIndexStart: 8, // because of absolute position, set z-index base value
   });
 });
+// gsap.to(".turn-animation", {
+//   rotate: 360,
+//   repeat: -1,
+//   duration: 5,
+// });
